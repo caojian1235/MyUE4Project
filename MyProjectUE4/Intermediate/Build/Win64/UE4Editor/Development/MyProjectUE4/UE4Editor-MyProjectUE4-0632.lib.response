@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProjectUE4-0632.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\MyProjectUE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\UE4Editor\Development\MyProjectUE4\MyProjectUE4.cpp.obj"
+"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\UE4Editor\Development\MyProjectUE4\MyProjectUE4GameModeBase.cpp.obj"
+"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\UE4Editor\Development\MyProjectUE4\MyProjectUE4.init.gen.cpp.obj"
+"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\UE4Editor\Development\MyProjectUE4\MyProjectUE4GameModeBase.gen.cpp.obj"
+"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\UE4Editor\Development\MyProjectUE4\Default.rc2.res"
+/OUT:"F:\MyUE4Project\MyUE4Project\MyProjectUE4\Intermediate\Build\Win64\UE4Editor\Development\MyProjectUE4\UE4Editor-MyProjectUE4-0632.lib"
+/INCLUDE:IMPLEMENT_MODULE_MyProjectUE4
